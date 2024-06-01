@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pylcs
+Rouge
+transformers
+trl
+wandb
+torch
+datasets
+peft
+pandas
